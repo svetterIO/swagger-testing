@@ -4,6 +4,10 @@ info:
   description: API description in Markdown.
   version: 1.0.0
   termsOfService: "javascript:alert(document.cookie)"
+  contact: 
+    name: "API Support"
+    url: "javascript:alert(document.cookie)"
+    email: "javascript:alert(document.cookie)"
 host: api.example.com
 basePath: /v1
 schemes:
